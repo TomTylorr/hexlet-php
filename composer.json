@@ -11,5 +11,7 @@
             "email": "tomtylorr@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
